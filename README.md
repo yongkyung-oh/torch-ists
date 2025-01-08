@@ -5,7 +5,7 @@
 
 
 ## Reference
-```
+```bibtex
 @inproceedings{
   oh2024stable,
   title={Stable Neural Stochastic Differential Equations in Analyzing Irregular Time Series Data},
@@ -15,7 +15,7 @@
 }
 ```
 
-```
+```bibtex
 @inproceedings{
   oh2025dualdynamics,
   title={DualDynamics: Synergizing Implicit and Explicit Methods for Robust Irregular Time Series Analysis},
